@@ -1,0 +1,17 @@
+{
+    "name": "rtl-mahmood/subscribe",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ali hamzehei",
+            "email": "alihamzehei2017@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^9.5"
+    }
+}
